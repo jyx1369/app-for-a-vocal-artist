@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Vocal Artist</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="name">Name: Stefanie Sun</string>
+    <string name="origin">Origin: China</string>
+    <string name="birth">Date of Birth: 23 July 1978 </string>
+    <string name="emailLabel">Email Address: </string>
+    <string name="email">yanzi@wanermusic.com.tw</string>
+    <string name="link">LINK TO OFFICIAL WEBSITE</string>
+    <string name="like">Likes: Reading books, piano</string>
+    <string name="dislike">Dislikes: dishonest people</string>
+    <string name="socialLink">LINK TO SOCIAL NETWORK</string>
+    <string name="mailingButton">Get on my mailing list</string>
+    <string name="Songs">Songs</string>
+    <string name="Videos">Videos</string>
+    <string name="Wallpapers">Wallpaper</string>
+    <string name="title_activity_songs">SongsActivity</string>
+    <string name="title_activity_play_audio">PlayAudioActivity</string>
+    <string name="startAudio">Start Playing Music</string>
+    <string name="restartAudio">Restart Playing Music</string>
+    <string name="pauseAudio">Pause Music</string>
+    <string name="userNameLabel">Your Name:</string>
+    <string name="userEmailLabel">Your email:</string>
+    <string name="userButton">adding a potential audience member</string>
+    <string name="mailingLabel">Join Stefanie</string>
+    <string name="hintwords">please add me as a potential audience member on mailing list</string>
+    <string name="title_activity_videos">VideosActivity</string>
+    <string name="title_activity_play_video">PlayVideoActivity</string>
+    <string name="title_activity_wallpapers">WallpapersActivity</string>
+    <string name="title_activity_mailing">MailingActivity</string>
+
+</resources>

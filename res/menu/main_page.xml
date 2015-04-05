@@ -1,0 +1,6 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item android:id="@+id/Songs" android:title="@string/Songs" android:showAsAction="always|withText"></item>
+    <item android:id="@+id/Videos" android:title="@string/Videos" android:showAsAction="always|withText"></item>
+    <item android:id="@+id/Wallpapers" android:title="@string/Wallpapers" android:showAsAction="always|withText"></item>
+</menu>
